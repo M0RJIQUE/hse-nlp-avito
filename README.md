@@ -1,2 +1,12 @@
-# hse-nlp-avito
-Natural Language Processing course at HSE x Avito Master's Degree Program
+# Natural Language Processing (NLP), ФКН ВШЭ
+
+Этот репозиторий содержит материалы лекций, семинаров и домашние задания курса NLP для магистерской программы "Машинное обучение в цифровом продукте".
+Курс разработан [Александром Шабалиным](https://t.me/amshabalin), [github](https://github.com/ashaba1in).
+
+# Темы курса
+
+1. Классификация текста
+
+# Преподаватели
+
+* [Егор Чимбулатов](https://t.me/m0rjique)
